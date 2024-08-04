@@ -10,3 +10,9 @@ This repository is a combination of the work undertaken by students under Associ
 | Conor Quigley            | Bsc Project     | September 2023 - May 2024 |
 | Joseph Anderson           | Summer Project     | June 2024 - July 2024   |
 
+## Useful Resources for Future Students
+
+- "https://www.youtube.com/watch?v=MOwn2UXxZwY" - Ways to upload large folders to this github page.
+- "https://www.youtube.com/@OpenFOAMJozsefNagy" - Dr. Jozsef Nagy's Youtube channel who shows how to install OpenFOAM and much more. 
+
+
