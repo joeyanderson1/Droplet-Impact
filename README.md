@@ -16,7 +16,8 @@ This repository consists of 3 main folders. Each folder is a first name of one o
 
 ## Useful Resources for Future Students
 
-The following sources were found to be very useful whilst conducting this project so far. 
+The following sources were found to be very useful whilst conducting this project so far. Feel free to add to this list appropriately to aid future students. 
+\\
 
 ### OpenFoam & Paraview
 - https://www.youtube.com/@OpenFOAMJozsefNagy - Dr. Jozsef Nagy's Youtube channel who shows how to install OpenFOAM and much more.
