@@ -10,7 +10,13 @@ This repository is a combination of the work undertaken by students under Associ
 | Conor Quigley            | Bsc Project     | September 2023 - May 2024 |
 | Joseph Anderson           | Summer Project     | June 2024 - July 2024   |
 
+## Contents 
+
+This repository consists of 3 main folders. Each folder is a first name of one of the above students. The contents of each folder is associated with that particular student. Naturally, we thank these students for their previous work and contributions. Within each folder there is a readme description of the main contents of the folder. 
+
 ## Useful Resources for Future Students
+
+The following sources were found to be very useful whilst conducting this project so far. 
 
 ### OpenFoam & Paraview
 - https://www.youtube.com/@OpenFOAMJozsefNagy - Dr. Jozsef Nagy's Youtube channel who shows how to install OpenFOAM and much more.
