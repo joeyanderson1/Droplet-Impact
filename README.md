@@ -6,6 +6,10 @@ This repository is a combination of the work undertaken by students under Associ
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-v9-blue.svg)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-R2023a-blue.svg)
+
 ## Contributors
 
 | Name                  | Role       | Period       |
