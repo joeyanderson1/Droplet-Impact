@@ -13,8 +13,10 @@ This repository is a combination of the work undertaken by students under Associ
 ## Useful Resources for Future Students
 
 ### OpenFoam & Paraview
-- https://www.youtube.com/@OpenFOAMJozsefNagy - Dr. Jozsef Nagy's Youtube channel who shows how to install OpenFOAM and much more. 
-- https://www.youtube.com/playlist?list=PLvkU6i2iQ2fpcVsqaKXJT5Wjb9_ttRLK- - Youtube channel which shows how to use Paraview. 
+- https://www.youtube.com/@OpenFOAMJozsefNagy - Dr. Jozsef Nagy's Youtube channel who shows how to install OpenFOAM and much more.
+- https://www.youtube.com/watch?v=5UHE-KmsncE - Guidelines how to get started using Linux on Ubuntu and using OpenFOAM. 
+- https://www.youtube.com/playlist?list=PLvkU6i2iQ2fpcVsqaKXJT5Wjb9_ttRLK- - Youtube channel which shows how to use Paraview.
+- https://www.youtube.com/watch?v=VIqDAS85GJc&t=464s - Intuition behind blockMesh in OpenFoam. 
 
 ### Sonic HPC 
 - https://fujitsuireland.service-now.com/itucd?id=sc_category - Site where you can request to get access to the ssh key and the bastion host. 
@@ -23,6 +25,7 @@ This repository is a combination of the work undertaken by students under Associ
 
 ### Matlab Edge Detection 
 - https://uk.mathworks.com/help/images/detecting-a-cell-using-image-segmentation.html - The starting blocks of the Matlab code that was used to process the edges of the water droplet. 
+- https://www.youtube.com/watch?v=Bf2enan5VfY - Lennon's visualisation of the edge detection in Matlab. 
 
 ### Github Maintenance
 - https://www.youtube.com/watch?v=MOwn2UXxZwY - Ways to upload large folders to this github page.
