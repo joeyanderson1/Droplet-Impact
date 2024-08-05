@@ -2,6 +2,8 @@
 
 This repository is a combination of the work undertaken by students under Associate Professor Lennon Ó'Náirigh. Generally, this work has centered around modelling water droplet impacts using computational fluid dynamics (CFD). This has primarily been done with the open source CFD library OpenFOAM.  
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=[my_repo_address]&project=MY_REPO.prj)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Contributors
