@@ -5,6 +5,7 @@ This repository is a combination of the work undertaken by students under Associ
 ![OpenFOAM](https://img.shields.io/badge/OpenFOAM-v8-green.svg)
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=[my_repo_address]&project=MY_REPO.prj)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-OS-yellow.svg)
 
 
 ## Contributors
