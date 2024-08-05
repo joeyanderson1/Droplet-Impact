@@ -14,7 +14,7 @@ This repository is a combination of the work undertaken by students under Associ
 |-----------------------|---------------|------------|
 | Juan Mairal              | MSc Project     | September 2021 - September 2022   |
 | Conor Quigley            | Bsc Project     | September 2023 - May 2024 |
-| Joseph Anderson           | Summer Project     | June 2024 - July 2024   |
+| Joseph Anderson           | Summer Project     | June 2024 - August 2024   |
 
 ## Contents 
 
