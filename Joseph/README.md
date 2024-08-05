@@ -1,9 +1,7 @@
-# Juan Mairal (MSc)
+# Joseph Anderson (Summer Student)
 
-This contains all working cases of OpenFOAM by Juan Mairal. We'd like to extend our gratitude to Juan for helping in the foundations of this project. All files within this folder are Juan's. 
+This contains the working case of OpenFOAM by Joseph Anderson. All files within this folder are Joseph's. Joseph has also been the author and creator of this github repository. He asks future students to try to maintain it. 
 
 ## Contents
 
-This repository contains, a series of 2D OpenFOAM cases, whose aim is to validate the methods and algorithms that are being used. The Rayleigh-Taylor instability and rising bubble cases were develped as validation for this method. The falling droplet is the most important case here. Two contact angle conditions are tested and their templates are included here. They are:
--The constant angle contact condition, which mantains the contact angle constant during the whole simulation. The value of the equilibrium angle can be changed at mesh/alpha.water.orig
--The dynamicAlphaContactAngle condition, which is the only dynamic angle condition offered in OpenFOAM by default. The template includes some default values that have been tested and work quite well. They can be changed in the alpha.water.orig file.
+
