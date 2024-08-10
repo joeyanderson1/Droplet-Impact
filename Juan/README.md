@@ -1,6 +1,6 @@
 # Juan Mairal (MSc)
 
-This contains all working cases of OpenFOAM by Juan Mairal. We'd like to extend our gratitude to Juan for helping in the foundations of this project. All files within this folder are Juan's. 
+This contains all working cases of OpenFOAM by Juan Mairal. We'd like to extend our gratitude to Juan for helping in the foundations of this project. All files within this folder are Juan's. Credit to Juan Mairal - I3A, University of Zaragoza. 
 
 ## Contents
 
