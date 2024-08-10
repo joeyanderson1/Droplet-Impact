@@ -36,6 +36,10 @@ The following sources were found to be very useful whilst conducting this projec
 - https://www.ucd.ie/itservices/ourservices/researchit/researchcomputing/sonichpc/ - Home page of the Sonic HPC cluster.
 - https://fujitsuireland.service-now.com/itucd?id=kb_article_ucd&sys_id=e63403861b16155049eb8055464bcbcd - How to access the Sonic HPC course on Brightspace which is very good for getting to grips with the basics of Sonic.
 
+### Visualisations of Droplet Spreading 
+- https://www.youtube.com/watch?v=FVTk0ZSxHtM - Juan's OpenFOAM simulation of using a constant contact angle of 120º.
+- https://www.youtube.com/watch?v=Gmvl9ta6-JU - Juan's OpenFOAM simulation of using a constant contact angle of 60º.
+
 ### Matlab Edge Detection 
 - https://uk.mathworks.com/help/images/detecting-a-cell-using-image-segmentation.html - The starting blocks of the Matlab code that was used to process the edges of the water droplet. 
 - https://www.youtube.com/watch?v=Bf2enan5VfY - Lennon's visualisation of the edge detection in Matlab. 
